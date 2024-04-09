@@ -4,3 +4,10 @@ body {
 h2{
     color:deepskyblue; 
 }
+#searchBar {
+    width: 100%;
+    height: 32px;
+    border-radius: 3px;
+    border: 1px solid #e044b9;
+    padding: 5px 10px;
+    font-size: 12px;
